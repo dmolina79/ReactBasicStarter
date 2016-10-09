@@ -1,1 +1,1 @@
-# React App example to search youtube Videos
+# React App Basic Starter Template
